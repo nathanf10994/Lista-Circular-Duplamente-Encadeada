@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.cpp" Top="Yes" Tabpos="1" TopLine="1">
+			<Cursor Line="24" Column="3"/>
+		</File>
+		<File Name="head.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="26" Column="25"/>
+		</File>
+		<File Name="push.cpp" Top="No" Tabpos="3" TopLine="1">
+			<Cursor Line="30" Column="25"/>
+		</File>
+		<File Name="pop.cpp" Top="No" Tabpos="4" TopLine="1">
+			<Cursor Line="16" Column="15"/>
+		</File>
+		<File Name="cpi.cpp" Top="No" Tabpos="5" TopLine="1">
+			<Cursor Line="26" Column="23"/>
+		</File>
+	</Files>
+</Layout>
